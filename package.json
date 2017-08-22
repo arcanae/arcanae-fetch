@@ -1,0 +1,22 @@
+{
+  "name": "arcanae-fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcanae/arcanae-fetch.git"
+  },
+  "author": "arcanae",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arcanae/arcanae-fetch/issues"
+  },
+  "homepage": "https://github.com/arcanae/arcanae-fetch#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
