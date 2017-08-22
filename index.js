@@ -17,3 +17,5 @@ function fetch(url, obj) {
         xhr.send()
     });
 }
+
+module.exports = fetch;
