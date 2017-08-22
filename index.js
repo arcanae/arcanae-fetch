@@ -1,3 +1,5 @@
+let XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
+
 function fetch(url, obj) {
     return new Promise((resolve, reject) => {
         xhr = new XMLHttpRequest();
